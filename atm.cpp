@@ -11,6 +11,8 @@ private:
     string password;
     int balance;
 
+
+
 public:
     User(string n, string p) : username(n), password(p), balance(0) {}
 
